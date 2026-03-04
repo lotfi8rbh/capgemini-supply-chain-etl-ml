@@ -1,0 +1,21 @@
+# Secrets
+.env
+env
+
+# Python
+.venv*/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+
+# Data (trop volumineux pour Git)
+*.csv
+
+# OS
+Thumbs.db
+.DS_Store
