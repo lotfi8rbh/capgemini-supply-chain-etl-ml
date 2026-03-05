@@ -1,4 +1,4 @@
-# capgemini-supply-chain-etl-ml
+# supply-chain-etl-ml
 
 **End-to-end Data Pipeline to predict supply chain delays.**
 
@@ -80,3 +80,4 @@ Then this preview will render on GitHub:
 - Hyperparameter optimization (Optuna/GridSearch).
 - Automated retraining/monitoring pipeline.
 - Data quality rules for geospatial consistency.
+
